@@ -137,3 +137,11 @@ a:link, a:visited, a:hover, a:active {
 .sub-three {
 display: flex 1;
 }
+.footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
